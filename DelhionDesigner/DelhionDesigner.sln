@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelhionDesignerBackend", "DelhionDesignerEditor\DelhionDesignerBackend.csproj", "{184281C7-9CC5-4EE6-B8B7-B6E9EEF52263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{184281C7-9CC5-4EE6-B8B7-B6E9EEF52263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184281C7-9CC5-4EE6-B8B7-B6E9EEF52263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184281C7-9CC5-4EE6-B8B7-B6E9EEF52263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184281C7-9CC5-4EE6-B8B7-B6E9EEF52263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A5C183C-0DDA-4FC1-829F-4C7617376D29}
+	EndGlobalSection
+EndGlobal
